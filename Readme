@@ -2,6 +2,6 @@ This project shows comparison of classic PID controller and Fuzzed PI controller
 
 Below you can see an example diagrams:
 
-
+![alt text](https://github.com/lokneey/PyControllers_PID_and_Fuzzy_PI/blob/master/plots.png)
 
 Fuzzed regulator is based in scikit-fuzzy library. All license statements of library work also in this project.
